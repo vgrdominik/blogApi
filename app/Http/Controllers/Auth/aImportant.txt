@@ -1,0 +1,1 @@
+Only to administrators. Users should use api.
